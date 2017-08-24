@@ -1,6 +1,7 @@
 # sprint1
 Sprint 1
 Sal Camara - Product Owner
+Ben Connell - Scrum Master
 Jason Gambino - Developer
 Amber Davis - Developer
 Giang (Kevin) Dinh- Developer
