@@ -1,4 +1,5 @@
 # sprint1
 Sprint 1
-Jason Gambino- Developer
+Sal Camara - Product Owner
+Jason Gambino - Developer
 Amber Davis - Developer
