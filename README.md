@@ -3,4 +3,4 @@ Sprint 1
 Sal Camara - Product Owner
 Jason Gambino - Developer
 Amber Davis - Developer
-Giang Dinh- Developer
+Giang (Kevin) Dinh- Developer
