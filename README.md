@@ -8,7 +8,7 @@ Ben Connell - *Scrum Master*
 
 Jason Gambino - *Developer*
 
-Amber Davis - *Developer*
+Amber Davis - **Developer*
 
 Giang (Kevin) Dinh - *Developer*
 
